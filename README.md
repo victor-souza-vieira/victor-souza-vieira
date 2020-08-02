@@ -1,16 +1,12 @@
-### Hi there 👋
+# :star2: Oi pessoal, me chamo Victor Souza :star2:
+### Sou desenvolvedor web e 'mobile' além de pesquisador nas horas vagas
+#### Estou atualmente me aventurando no mundo maravilhoso do flutter
 
-<!--
-**victor-souza-vieira/victor-souza-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou utilizando :fire: :boom:
+  * Python
+  * Java EE
+  * Flutter
+  * JavaScript
+  
+ ## WebSite da minha pesquisa acadêmica :muscle: :metal:
+  * [Explain my error](http://victortirano.pythonanywhere.com/)
