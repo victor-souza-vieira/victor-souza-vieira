@@ -3,10 +3,9 @@
 #### Estou atualmente me aventurando no mundo maravilhoso do flutter
 
 ## Tecnologias que estou utilizando :fire: :boom:
+  * Java
+  * Kotlin
   * Python
-  * Java EE
-  * Flutter
-  * JavaScript
   
  ## WebSite da minha pesquisa acadêmica :muscle: :metal:
   * [Explain my error](http://victortirano.pythonanywhere.com/)
