@@ -1,5 +1,5 @@
 # :star2: Oi pessoal, me chamo Victor Souza :star2:
-### Sou desenvolvedor Web e Mobile além de pesquisador nas horas vagas
+### Sou desenvolvedor Backend além de pesquisador nas horas vagas
 #### Estou atualmente me aventurando no mundo maravilhoso do flutter
 
 ## Tecnologias que estou utilizando :fire: :boom:
