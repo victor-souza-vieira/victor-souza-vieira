@@ -9,3 +9,5 @@
   
  ## WebSite da minha pesquisa acadêmica :muscle: :metal:
   * [Explain my error](http://victortirano.pythonanywhere.com/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-souza-vieira&show_icons=true&theme=tokyonight)
